@@ -5,6 +5,8 @@ const options = {
     username: "marekipa",
     password: "oauth:txaelr19rjhwms2hbf0sszsdmlgyip",
   },
+  //   channel name
+  channles: ["marekipa"],
 };
 
 tmi.client(options);
